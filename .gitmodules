@@ -17,3 +17,8 @@
 	path = outgoing_mail_server_user_app
 	url = git@github.com:jeffrepo/outgoing_mail_server_user_app.git
 	branch = master
+
+[submodule "ob_pos_combo_product"]
+	path = ob_pos_combo_product
+	url = git@github.com:jeffrepo/ob_pos_combo_product.git
+	branch = master
