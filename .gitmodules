@@ -12,3 +12,8 @@
 	path = pos_network_printer
 	url = git@github.com:jeffrepo/pos_network_printer.git
 	branch = master
+
+[submodule "outgoing_mail_server_user_app"]
+	path = outgoing_mail_server_user_app
+	url = git@github.com:jeffrepo/outgoing_mail_server_user_app.git
+	branch = master
