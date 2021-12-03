@@ -5,7 +5,7 @@
 
 [submodule "pos_ticket_fel"]
 	path = pos_ticket_fel
-	url = https://github.com/jeffrepo/pos_ticket_fel.git
+	url = git@github.com:jeffrepo/pos_ticket_fel.git
 	branch = 14.0
 
 [submodule "pos_network_printer"]
