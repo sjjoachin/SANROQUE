@@ -32,3 +32,8 @@
 	path = pos_cash_in_out_odoo
 	url = git@github.com:jeffrepo/pos_cash_in_out_odoo.git
 	branch = master
+
+[submodule "pos_longpolling"]
+	path = pos_longpolling
+	url = git@github.com:jeffrepo/pos_longpolling.git
+	branch = master
