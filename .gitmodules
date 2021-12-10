@@ -1,8 +1,3 @@
-[submodule "infilefel"]
-	path = infilefel
-	url = git@github.com:jeffrepo/infilefel.git
-	branch = 14.0
-
 [submodule "pos_ticket_fel"]
 	path = pos_ticket_fel
 	url = git@github.com:jeffrepo/pos_ticket_fel.git
