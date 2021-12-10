@@ -17,3 +17,8 @@
 	path = ob_pos_combo_product
 	url = git@github.com:jeffrepo/ob_pos_combo_product.git
 	branch = master
+
+[submodule "infilefel"]
+	path = infilefel
+	url = git@github.com:jeffrepo/infilefel.git
+	branch = 14.0
