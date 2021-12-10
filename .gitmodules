@@ -37,3 +37,8 @@
 	path = pos_longpolling
 	url = git@github.com:jeffrepo/pos_longpolling.git
 	branch = master
+
+[submodule "pos_sync_order"]
+	path = pos_sync_order
+	url = git@github.com:jeffrepo/pos_sync_order.git
+	branch = master
