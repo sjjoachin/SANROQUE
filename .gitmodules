@@ -22,3 +22,8 @@
 	path = infilefel
 	url = git@github.com:jeffrepo/infilefel.git
 	branch = 14.0
+
+[submodule "inter_company_stock_transfer"]
+	path = inter_company_stock_transfer
+	url = git@github.com:jeffrepo/inter_company_stock_transfer.git
+	branch = master
