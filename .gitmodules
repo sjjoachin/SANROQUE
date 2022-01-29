@@ -20,7 +20,7 @@
 
 [submodule "infilefel"]
 	path = infilefel
-	url = git@github.com:jeffrepo/infilefel.git
+	url = https://github.com/jeffrepo/infilefel.git
 	branch = 14.0
 
 [submodule "inter_company_stock_transfer"]
